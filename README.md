@@ -1,9 +1,9 @@
-# tala_madhu
+## 🏅 My LeetCode Achievement
 
-## 🚀 LeetCode Achievements
+<p align="center">
+  <img src="https://leetcode.com/medal/?showImg=0&id=8497969&isLevel=false" alt="50 Days of LeetCode Badge" width="150"/>
+</p>
 
-[![LeetCode Badge](https://leetcode.com/medal/?showImg=0&id=8497969&isLevel=false)](https://leetcode.com/u/tala_madhu/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-tala__madhu-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tala_madhu/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/tala_madhu?theme=dark&ext=heatmap)
+<p align="center">
+  <a href="https://leetcode.com/u/tala_madhu/">🌐 View My LeetCode Profile</a>
+</p>
